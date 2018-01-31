@@ -1,0 +1,64 @@
+**********
+PROSTAGMA
+**********
+
+Chaud pour le Zelda like !
+
+Note: le caca c'est gentil.
+
+**********
+Pépouze
+**********
+J'ai lu tes idées ripopo et jsuis chaud pour un zelda-like !
+Je pensais juste proposé une expèce de carte pour qu'on puisse avancey étape par étape.
+
+1. Rédaction du scénario, de l'idée la plus générale vers les détails (en avançant par ramification #RafikStyle).
+Dans cette étape, il nous faudra sortir notre plus belle plus et notre ouverture d'esprit pour raconter une histoire.
+
+Je pense que tout commence avec une bonne histoire. (je suppose, surtout pour les zeldas like.)
+
+Et c'est aussi l'étape qui va nous tester dans notre détermination, parce :
+a) on ne codera point
+b) à force d'échange, on stabilisera notre stratégie de communication / échange via des outils. (il existe peut-être des outils préférable à git pour communiquer des rédactions?....)
+c) devine
+
+2. Conception.
+Ici on commencera à débuter les prémices du commencement de comment on pourrait transcrire les éléments de l'histoire (l'hisoire étant elle même un élement de l'histoire....) en concepte numérique et de façon la plus abstraite possible pour ne pas se retrouver bloqué dans un langage précis.
+
+Bref, on fait une carte routière qu'on pourra exploiter peut importe le moyen de transport qu'on choisira d'utiliser.
+
+Et tant qu'on n'a pas une vue assez dégagée sur les différents quartiers de notre plan et leur liens, on ne prend pas la route : c'est un coup à se perdre en route et repartir depuis le début :(
+
+3. Choix des environnement cibles. 
+- executable ? ok mais pour quels os ?... ou on 
+- web ? ok, on offre l'accès aux portables / tablettes aussi ? et le serveur ?
+- autre ? ok.. jte suis.
+
+4. Choix des outils.
+Sur quels outils on s'appuie pour que le jeux tourne sur le / les environnement(s) qu'on aura choisi ? Les langages font différer si on travaille coté serveur et si on travaille coté IHM. (sauf, si on fait de l'exécutable xD)
+
+5. Distribution / organisation des rôles pour le code.
+On se met d'accord pour quelques règles de codage : entre_nous ou entreNous ? i_monEntier? 
+Ces règles nous permettrons de ne pas nous perdre quand on passera de notre code à celui du copain.
+
+Qui fait quoi ? (perso, moi j'veux bien cautériser)
+Est-ce qu'il y a un ordonnancement à faire ? (genre ta partie dépend de la mienne alors en attendant va sur YouP)
+
+6. Faire des testes sur les classes introduites
+
+7. boucler sur 5 et 6 jusqu'à avoir une béta ?
+
+8. bling bling : MUUUURRDAAA GAAME !!
+
+
+
+Voilà, c'est paaaaaas grand chose non plus 8 étapes, franch'ment ? C'est quoi, 1 ou 2 ans - pépouzement - xD
+
+
+Bon, n'hésitez-po : ajoutez des choses dans ces étapes si vous pensez à d'autres trucs qui nous bumperaient vers l'infini et l'o2LA !
+
+Je rajouterai que peut-être une branche git pour chaque étape nous aideraient à emboiter le pas de la séparations des concerns ?
+
+tchou!
+
+Ji-
