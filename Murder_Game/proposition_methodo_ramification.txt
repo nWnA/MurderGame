@@ -13,7 +13,7 @@ J'ai lu tes idées ripopo et jsuis chaud pour un zelda-like !
 Je pensais juste proposé une expèce de carte pour qu'on puisse avancey étape par étape.
 
 1. Rédaction du scénario, de l'idée la plus générale vers les détails (en avançant par ramification #RafikStyle).
-Dans cette étape, il nous faudra sortir notre plus belle plus et notre ouverture d'esprit pour raconter une histoire.
+Dans cette étape, il nous faudra sortir notre plus belle plûme et notre ouverture d'esprit pour raconter une histoire.
 
 Je pense que tout commence avec une bonne histoire. (je suppose, surtout pour les zeldas like.)
 
@@ -22,12 +22,21 @@ a) on ne codera point
 b) à force d'échange, on stabilisera notre stratégie de communication / échange via des outils. (il existe peut-être des outils préférable à git pour communiquer des rédactions?....)
 c) devine
 
+Pour rappel, et pour nous faciliter la tâche de raconter une histoire, voilà les élements d'un récit (cours de français au collège je coirs ^^')
+- un état initial : qui définit le cadre de l'histoire (le lieu, l'époque, les personnages)
+- élement perturbateur, qui remet en cause l'état initiale: rencontre, découverte...
+- une suite de transformations qui modifient la situation des personnages (rebondissements / suite de péripéties) 
+- élement de résolution (de ce qui a perturbé)
+- état final.
+
 2. Conception.
 Ici on commencera à débuter les prémices du commencement de comment on pourrait transcrire les éléments de l'histoire (l'hisoire étant elle même un élement de l'histoire....) en concepte numérique et de façon la plus abstraite possible pour ne pas se retrouver bloqué dans un langage précis.
 
 Bref, on fait une carte routière qu'on pourra exploiter peut importe le moyen de transport qu'on choisira d'utiliser.
 
 Et tant qu'on n'a pas une vue assez dégagée sur les différents quartiers de notre plan et leur liens, on ne prend pas la route : c'est un coup à se perdre en route et repartir depuis le début :(
+
+Je pense qu'il nous faudra à ce moment là, utiliser UML et beaucoup creuser les Design Patterns (pour bien faire les choses)  
 
 3. Choix des environnement cibles. 
 - executable ? ok mais pour quels os ?... ou on 
@@ -41,18 +50,30 @@ Sur quels outils on s'appuie pour que le jeux tourne sur le / les environnement(
 On se met d'accord pour quelques règles de codage : entre_nous ou entreNous ? i_monEntier? 
 Ces règles nous permettrons de ne pas nous perdre quand on passera de notre code à celui du copain.
 
-Qui fait quoi ? (perso, moi j'veux bien cautériser)
-Est-ce qu'il y a un ordonnancement à faire ? (genre ta partie dépend de la mienne alors en attendant va sur YouP)
+Dans ces règles, 'faudra aussi essayer d'homogénéiser les méthodes d'API pour que ça de vienne de plus en plus intuitif à la recherche :
 
-6. Faire des testes sur les classes introduites
+Exemple. 
+Quand je veux envoyer qqchose sur le serveur, mon API http m'offre la méthode |httpPutData(d)|.
+J'ai une entitée à sauvegarder en BDD, j'aurai tendance (presque naturellement) à cherche une méthode qui ressemblerai à dbSaveEntity(e)...
 
-7. boucler sur 5 et 6 jusqu'à avoir une béta ?
+Si on arrive à faire une suites de règles qui nous mènne à un truc comme ça: intégrer une autre personne dans l'équipe (genre un mec de chez Blizzard qui a play au jeu et qui quitte carrément sa boite pour taffer 'vec nous xD) ça lui trouera le cul de voir du code
+plus propre du cul encore que ce qu'il a vu chez Blizzard lol.
 
-8. bling bling : MUUUURRDAAA GAAME !!
+6. Peut-être une méthode PERT pour la gestion de projet ? mdr ! Des graphes et des parcours de graphes ça vous tente ? lol
+juste pour avoir une idée de combien de temps en va mettre et dans quels sont les points qui dépendent d'autres.
+Euuh, perso, si qqn est chaud jle suis mais c'est une partie qui ressemblera a unen courgette qui essaie de te rentrer dans le ..
+
+7. Implémnter
+
+8. Faire des testes unitaire (au moins) sur les implémentations.
+
+9. boucler sur 7 et 8 jusqu'à avoir une béta ?
+
+10. bling bling : MUUUURRDAAA GAAME !!
 
 
 
-Voilà, c'est paaaaaas grand chose non plus 8 étapes, franch'ment ? C'est quoi, 1 ou 2 ans - pépouzement - xD
+Voilà, c'est paaaaaas grand chose non plus 10 étapes, franch'ment ? C'est quoi, 2 ou 4 ans - pépouzement - xD
 
 
 Bon, n'hésitez-po : ajoutez des choses dans ces étapes si vous pensez à d'autres trucs qui nous bumperaient vers l'infini et l'o2LA !
